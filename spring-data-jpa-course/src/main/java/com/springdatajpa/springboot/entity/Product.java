@@ -1,0 +1,2 @@
+package com.springdatajpa.springboot.entity;public class Product {
+}
