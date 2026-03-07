@@ -1,0 +1,4 @@
+com\codespice\testcontainers\TestContainersApplicationTests.class
+com\codespice\testcontainers\CustomerControllerTest.class
+com\codespice\testcontainers\TestcontainersConfiguration.class
+com\codespice\testcontainers\TestTestContainersApplication.class

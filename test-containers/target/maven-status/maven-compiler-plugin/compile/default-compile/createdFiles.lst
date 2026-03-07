@@ -1,0 +1,4 @@
+com\codespice\testcontainers\entity\Customer.class
+com\codespice\testcontainers\repository\CustomerRepository.class
+com\codespice\testcontainers\controller\CustomerController.class
+com\codespice\testcontainers\TestContainersApplication.class
